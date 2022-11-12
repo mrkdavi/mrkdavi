@@ -59,8 +59,8 @@ app.listen(PORT, () => (
 	<a href="https://www.instagram.com/mrkdavi" target="_blank" alt="Instagram">
 	  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mrkdavi" height="30" />
 	</a>
-	<a href="https://discordapp.com/users/571075961877954624" target="_blank" alt="Instagram">
-	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/571075961877954624" height="30" />
+	<a href="https://discordapp.com/users/263112128003702785" target="_blank" alt="Discord">
+	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/263112128003702785" height="30" />
 	</a>
 	</div>
 </div>
