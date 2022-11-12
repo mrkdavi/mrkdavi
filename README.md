@@ -50,16 +50,16 @@ app.listen(PORT, () => (
 <div>
 <h2>📪 Get in touch</h2>
 <div>
-	<a href="mailto:marcusdavi.soar@gmail.com" alt="Gmail">
+	<a href="mailto:marcusdavi.soar@gmail.com" target="_blank" alt="Gmail">
 		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcusdavi.soar@gmail.com" height="30" />
 	</a>
-	<a href="https://www.linkedin.com/in/mrkdavi" alt="Linkedin">
+	<a href="https://www.linkedin.com/in/mrkdavi" target="_blank" alt="Linkedin">
 		<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrkdavi" height="30" />
 	</a>
-	<a href="https://www.instagram.com/mrkdavi" alt="Instagram">
+	<a href="https://www.instagram.com/mrkdavi" target="_blank" alt="Instagram">
 	  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mrkdavi" height="30" />
 	</a>
-	<a href="https://discordapp.com/users/571075961877954624" alt="Instagram">
+	<a href="https://discordapp.com/users/571075961877954624" target="_blank" alt="Instagram">
 	  <img src="https://img.shields.io/badge/-discord-7289DA?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=https://discordapp.com/users/571075961877954624" height="30" />
 	</a>
 	</div>
