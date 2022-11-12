@@ -25,7 +25,7 @@ const marcus = {
 };
 
 app.get('/about', (req, res) => (
-	res.status(200).json(developer)
+	res.status(200).json({ marcus })
 );
 
 app.listen(PORT, () => (
