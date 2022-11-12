@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Web Developer focus on back-end!</h3>
 
-I'm just a regular guy who starts to programmingf for fun and I'm looking for great opportunities in this wonderful world of technology.
+I'm just a regular guy who starts to programming for fun and I'm looking for great opportunities in this wonderful world of technology.
 
 ## 🧑‍💻 About Me
 
