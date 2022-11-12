@@ -2,7 +2,7 @@
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, This is Marcus!
 </h1>
 
-<h3 align="center">I'm a Web Developer focus on Full-Stack!</h3>
+<h3 align="center">I'm a Full-Stack Web Developer!</h3>
 
 I'm just a regular guy who starts to programming for fun and I'm looking for great opportunities in this wonderful world of technology.
 
@@ -17,7 +17,7 @@ const app = express()
 const PORT = 3000
 
 const marcus = {
-	stack:"Back-End Developer",
+	stack:"Full-Stack Developer",
 	pronouns: ['He', 'Him'],
 	favoriteDrinks: ['cajuina','tea', 'hot chocolate', 'water'],
 	favoriteFoods: ['burger', 'lasagna', 'spaghetti'],
