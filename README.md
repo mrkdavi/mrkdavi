@@ -8,7 +8,7 @@ I'm just a regular guy who starts to programmingf for fun and I'm looking for gr
 
 ## 🧑‍💻 About Me
 
-<img align="right" height="426" width="30%" src="https://media0.giphy.com/media/SYRR8QmMP70d3AlU1N/giphy.gif?cid=ecf05e479duhwbtqs1ige44kzmaxty8cw45p5gji7k0aulsu&rid=giphy.gif&ct=g" />
+<img align="right" height="400" width="30%" src="https://media0.giphy.com/media/SYRR8QmMP70d3AlU1N/giphy.gif?cid=ecf05e479duhwbtqs1ige44kzmaxty8cw45p5gji7k0aulsu&rid=giphy.gif&ct=g" />
 
 ```javascript
 import express from 'express'
