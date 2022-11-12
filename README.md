@@ -8,7 +8,7 @@ I'm just a regular guy who starts to programming for fun and I'm looking for gre
 
 ## 🧑‍💻 About Me
 
-<img align="right" height="400" width="30%" src="https://media0.giphy.com/media/SYRR8QmMP70d3AlU1N/giphy.gif?cid=ecf05e479duhwbtqs1ige44kzmaxty8cw45p5gji7k0aulsu&rid=giphy.gif&ct=g" />
+<img align="right" height="360" width="30%" src="https://media0.giphy.com/media/SYRR8QmMP70d3AlU1N/giphy.gif?cid=ecf05e479duhwbtqs1ige44kzmaxty8cw45p5gji7k0aulsu&rid=giphy.gif&ct=g" />
 
 ```javascript
 import express from 'express'
@@ -48,7 +48,7 @@ app.listen(PORT, () => (
 </div>
 
 <div>
-<h2>💻 Get in touch</h2>
+<h2>📪 Get in touch</h2>
 <div>
 	<a href="mailto:marcusdavi.soar@gmail.com" alt="Gmail">
 		<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=marcusdavi.soar@gmail.com" height="30" />
