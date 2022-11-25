@@ -44,7 +44,7 @@ app.listen(PORT, () => (
 
 <div>
 <h2>💻 Languages and Technologies</h2>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,tailwindcss,jest,docker,express,redux,postgres,mysql,prisma,mongodb,bash,linux&perline=4" width="200" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vite,tailwindcss,jest,docker,express,redux,postgres,mysql,prisma,mongodb,bash,linux&perline=16" width="100%" />
 </div>
 
 <div>
