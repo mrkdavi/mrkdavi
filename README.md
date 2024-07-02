@@ -19,9 +19,9 @@ const PORT = 3000
 const marcus = {
 	stack:"Full-Stack Developer",
 	pronouns: ['He', 'Him'],
-	favoriteDrinks: ['cajuina','tea', 'hot chocolate', 'water'],
-	favoriteFoods: ['burger', 'lasagna', 'spaghetti'],
-	like: ['games', 'books', 'animes', 'lofi'],
+	favoriteDrinks: ['cajuina', 'coffee', 'tea'],
+	favoriteFoods: ['burger', 'lasagna'],
+	like: ['games', 'comics', 'animes'],
 };
 
 app.get('/about', (req, res) => (
